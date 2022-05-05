@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#354e44",
+  "usingComponents": {
+    "mp-html": "/uni_modules/mp-html/components/mp-html/mp-html"
+  }
+}

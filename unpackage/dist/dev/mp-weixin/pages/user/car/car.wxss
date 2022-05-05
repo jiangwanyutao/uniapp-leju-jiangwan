@@ -1,0 +1,129 @@
+@charset "UTF-8";
+/**
+ * 这里是uni-app内置的常用样式变量
+ *
+ * uni-app 官方扩展插件及插件市场（https://ext.dcloud.net.cn）上很多三方插件均使用了这些样式变量
+ * 如果你是插件开发者，建议你使用scss预处理，并在插件代码中直接使用这些变量（无需 import 这个文件），方便用户通过搭积木的方式开发整体风格一致的App
+ *
+ */
+/**
+ * 如果你是App开发者（插件使用者），你可以通过修改这些变量来定制自己的插件主题，实现自定义主题功能
+ *
+ * 如果你的项目同样使用了scss预处理，你也可以直接在你的 scss 代码中使用如下变量，同时无需 import 这个文件
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.car .buycart-main.data-v-8f83b964 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 336px;
+  margin: 25px auto;
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 10px 10px;
+  box-sizing: border-box;
+}
+.car .img.data-v-8f83b964 {
+  width: 68px;
+  height: 68px;
+}
+.car .img image.data-v-8f83b964 {
+  width: 68px;
+  height: 68px;
+}
+.car .name.data-v-8f83b964 {
+  font-size: 13px;
+  color: #3e3e3e;
+}
+.car .skuid.data-v-8f83b964 {
+  font-size: 11px;
+  color: #8d8d8d;
+}
+.car .price.data-v-8f83b964 {
+  font-size: 11px;
+  color: #8d8d8d;
+}
+.car .quantity.data-v-8f83b964 {
+  font-size: 11px;
+  color: #8d8d8d;
+}
+.car .steps.data-v-8f83b964 {
+  width: 100%;
+  display: flex;
+  background-color: #fff;
+  justify-content: flex-end;
+}
+.car .steps .reduce.data-v-8f83b964 {
+  width: 30px;
+  height: 30px;
+  background: #f1ece7;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  font-size: 15px;
+  margin: 0 3px;
+}
+.car .steps .step-text.data-v-8f83b964 {
+  width: 45px;
+  border-radius: 15px;
+  height: 30px;
+  background: #f1ece7;
+  text-align: center;
+  line-height: 30px;
+  font-size: 15px;
+  margin: 0 3px;
+}
+.car .steps .add.data-v-8f83b964 {
+  width: 30px;
+  height: 30px;
+  background: #f1ece7;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  font-size: 15px;
+  margin: 0 3px;
+}
+.car .footer.data-v-8f83b964 {
+  position: fixed;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 75px;
+  background-color: #fff;
+}
+.car .footer .prices.data-v-8f83b964 {
+  display: flex;
+  align-items: center;
+}
+.car .footer .jie.data-v-8f83b964 {
+  display: inline-block;
+  width: 104px;
+  height: 40px;
+  background: #354e44;
+  border-radius: 14px;
+  color: #fff;
+  font-size: 18px;
+  line-height: 40px;
+  text-align: center;
+  margin-left: 10px;
+}
+.car .footer .ck.data-v-8f83b964 {
+  margin-left: 10px;
+}
+

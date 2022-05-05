@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "乐居",
+  "enablePullDownRefresh": true,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#354e44",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}
